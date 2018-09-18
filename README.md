@@ -1,0 +1,2 @@
+# diventory
+Dynamic Inventory management
